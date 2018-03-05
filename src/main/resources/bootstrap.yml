@@ -9,6 +9,6 @@ spring:
     active:
       dev
 
-#  cloud:
-#    config:
-#      uri: http://localhost:5555
+  cloud:
+    config:
+      uri: http://localhost:5555
