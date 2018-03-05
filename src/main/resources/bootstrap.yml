@@ -9,6 +9,6 @@ spring:
     active:
       dev
 
-  cloud:
-    config:
-      uri: ${SPRING_CLOUD_CONFIG_URI}
+#  cloud:
+#    config:
+#      uri: http://localhost:5555
