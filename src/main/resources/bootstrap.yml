@@ -1,10 +1,6 @@
 server:
   port: 8761
 
-eureka:
-  serviceUrl:
-    defaultZone: https://eureka-service-api.herokuapp.com/
-
 spring:
   application:
     name: eureka-service
